@@ -17,11 +17,11 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/meja" />
+            android:src="@drawable/soto_solo" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Lorem Ipsum"
+            android:text="Soto Solo"
             android:textSize="18sp"
             android:textStyle="bold"
             android:layout_marginHorizontal="12dp"

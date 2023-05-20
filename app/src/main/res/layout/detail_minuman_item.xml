@@ -29,6 +29,7 @@
                 android:textSize="14sp"
                 android:text="5.000" />
 
+
         </LinearLayout>
 
         <FrameLayout
@@ -41,7 +42,7 @@
                 android:layout_marginStart="12dp"
                 android:scaleType="centerCrop"
                 android:layout_gravity="end"
-                android:src="@drawable/meja" />
+                android:src="@drawable/esteh" />
         </FrameLayout>
 
     </LinearLayout>

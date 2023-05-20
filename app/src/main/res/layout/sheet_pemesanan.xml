@@ -14,21 +14,21 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@drawable/meja" />
+            android:src="@drawable/nasiayammayo" />
     </androidx.cardview.widget.CardView>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
-        android:text="Lorem Ipsum"
+        android:text="Nasi Ayam Mayonaise"
         android:textSize="24sp"
         android:textStyle="bold" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
-        android:text="Nasi padang ayam goreng,sayurpelengkap,sambal"
+        android:text="Nasi, ayam asam-manis, salad + mayonaise"
         android:textSize="14sp"
         android:textStyle="normal" />
 
@@ -38,7 +38,7 @@
         android:gravity="end"
         android:layout_marginHorizontal="24dp"
         android:layout_marginTop="40dp"
-        android:text="Rp. 20.000"
+        android:text="Rp. 15.000"
         android:textSize="18sp"
         android:textStyle="bold" />
 

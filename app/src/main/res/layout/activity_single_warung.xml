@@ -14,7 +14,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/meja"
+            android:src="@drawable/kantinku"
             android:scaleType="centerCrop" />
         
         <LinearLayout
@@ -27,7 +27,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Title Warung Makan"
+                android:text="Kantin Telkom Food's"
                 android:textSize="22sp"
                 android:textStyle="bold"
                 android:layout_marginTop="12dp"
@@ -63,7 +63,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
-                    android:text="4.5"
+                    android:text="4.8"
                     android:textStyle="bold"
                     android:textSize="16sp"/>
                 <TextView
